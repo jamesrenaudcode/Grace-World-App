@@ -1,2 +1,2 @@
-# Grace-World-App
+# Grace-Hub-App
 App for Church
